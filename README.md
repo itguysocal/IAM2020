@@ -1,1 +1,3 @@
-# IAM2020
+Mastering Identity and Access Management
+A Collaborative Security Whitepaper
+
